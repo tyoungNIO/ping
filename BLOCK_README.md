@@ -15,4 +15,4 @@ Notes for developers can go here.
 
 Dependencies
 ------------
-None, or list all packages that need to be installed. This should match `requirements.txt`, plus any packages that cannot be installed using `pip`.s
+None, or list all packages that need to be installed. This should match `requirements.txt`, plus any packages that cannot be installed using `pip`.
