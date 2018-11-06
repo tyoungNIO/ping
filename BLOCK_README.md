@@ -3,7 +3,7 @@ Example
 
 Blocks in this Collection
 -------------------------
-[docs/example_block.md](Example)
+[Example](docs/example_block.md)
 
 Installation
 ------------
