@@ -31,7 +31,7 @@ For more information about your project directory, refer to the `project_templat
 
 **BLOCK_README.md**<br>This readme should include requirements, installation notes, and other information that a developer may need, to be displayed on the block's repository on github. **Documentation on block usage should be inside `docs/`.** Before pushing your block code to github, rename to README.md overwriting this readme.
 
-**docs/example_block.md**<br>Every block class should have a matching README file here.
+**docs/example_block.md**<br>Every discoverable block class should have a matching README file here.
 
 **requirements.txt**<br>Lists required Python dependencies. The file is installed by pip when the block is installed. To install the dependencies manually, enter `pip install -r requirements.txt`.
 
