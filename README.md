@@ -29,7 +29,7 @@ For more information about your project directory, refer to the `project_templat
 
 **<new_block>_block.py**<br>This is the block code. Additional Python classes and files are definitely welcome. If the file contains a block class, make sure the filename ends with `_block.py`. If the file represents a base block (a block type that is not intended to be discoverable by itself), rename the filename to end with `_base.py`.
 
-**BLOCK_README.md**<br>This readme should include requirements, installation notes, and other information that a developer may need to be displayed on the block's repository on github. **Documentation on block usage should be inside `docs/`.** Before pushing your block code to github, rename to README.md overwriting this readme.
+**BLOCK_README.md**<br>This readme should include requirements, installation notes, and other information that a developer may need, to be displayed on the block's repository on github. **Documentation on block usage should be inside `docs/`.** Before pushing your block code to github, rename to README.md overwriting this readme.
 
 **docs/example_block.md**<br>Every block class should have a matching README file here.
 
