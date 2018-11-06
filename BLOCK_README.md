@@ -1,24 +1,18 @@
 Example
-===========
+=======
 
-What does this block do?
+Blocks in this Collection
+-------------------------
+[docs/example_block.md](Example)
 
-Properties
---------------
-None
+Installation
+------------
+Any additional information or steps required for installation can go here.
+
+Notes
+-----
+Notes for developers can go here.
 
 Dependencies
-----------------
-None
-
-Commands
-----------------
-None
-
-Input
--------
-Any list of signals.
-
-Output
----------
-Same list of signals as input.
+------------
+None, or list all packages that need to be installed. This should match `requirements.txt`, plus any packages that cannot be installed using `pip`.s
