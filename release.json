@@ -1,7 +1,7 @@
 {
   "nio/Ping": {
     "language": "Python",
-    "from_python": "ping_bock.Ping",
+    "from_python": "ping_block.Ping",
     "url": "git://github.com/nio-blocks/ping"
   }
 }
