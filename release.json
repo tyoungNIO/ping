@@ -2,6 +2,6 @@
   "nio/Ping": {
     "language": "Python",
     "from_python": "ping_block.Ping",
-    "url": "git://github.com/nio-blocks/ping"
+    "url": "git://github.com/nio-blocks/ping.git"
   }
 }
