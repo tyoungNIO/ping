@@ -9,7 +9,7 @@ For best results, do not attempt to ping a host more frequently than the timeout
 Properties
 ----------
 - **Hostname**: Hostname or IP address to ping
-- **Timeout**: (advanced) Time to wait, in seconds, for a a connection to the remote host. Total round trip times may exceed this value because networks are weird, and values less than 1 second may not be respected by the operating system.
+- **Timeout**: (advanced) Time to wait for a a connection to the remote host. Depending on your system this value may be in second or in milliseconds. See your documentation on the `ping` command to determine. If this value is 0 then no timeout will be provided to the ping command. Total round trip times may exceed this value because networks are weird, and values less than 1 second may not be respected by the operating system.
 
 Example
 -------
